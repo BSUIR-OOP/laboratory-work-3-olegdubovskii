@@ -1,0 +1,9 @@
+<Cat>
+	<name>"20"</name>
+	<weight>"20"</weight>
+	<height>"20"</height>
+	<age>"20"</age>
+	<ownerName>"20"</ownerName>
+	<testPoint>"animals.Physique@1d76a67c"</testPoint>
+</Cat>
+

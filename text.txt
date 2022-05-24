@@ -1,0 +1,54 @@
+<Cat>
+	<name>"1"</name>
+	<physicalData>
+		<height>"5"</height>
+		<testField1>
+			<x>"1.0"</x>
+			<y>"1.0"</y>
+		</testField1>
+		<weight>"4"</weight>
+		<testField2>
+			<x>"9.0"</x>
+			<y>"9.0"</y>
+		</testField2>
+	</physicalData>
+	<age>"2"</age>
+	<ownerName>"3"</ownerName>
+</Cat>
+
+<Cat>
+	<name>"6"</name>
+	<physicalData>
+		<height>"10"</height>
+		<testField1>
+			<x>"1.0"</x>
+			<y>"1.0"</y>
+		</testField1>
+		<weight>"9"</weight>
+		<testField2>
+			<x>"9.0"</x>
+			<y>"9.0"</y>
+		</testField2>
+	</physicalData>
+	<age>"7"</age>
+	<ownerName>"8"</ownerName>
+</Cat>
+
+<Horse>
+	<name>"11"</name>
+	<physicalData>
+		<height>"15"</height>
+		<testField1>
+			<x>"1.0"</x>
+			<y>"1.0"</y>
+		</testField1>
+		<weight>"14"</weight>
+		<testField2>
+			<x>"9.0"</x>
+			<y>"9.0"</y>
+		</testField2>
+	</physicalData>
+	<age>"12"</age>
+	<ownerName>"13"</ownerName>
+</Horse>
+
