@@ -1,0 +1,9 @@
+<Horse>
+	<name>"7"</name>
+	<weight>"7"</weight>
+	<height>"7"</height>
+	<age>"7"</age>
+	<ownerName>"7"</ownerName>
+	<ttt>"10"</ttt>
+</Horse>
+

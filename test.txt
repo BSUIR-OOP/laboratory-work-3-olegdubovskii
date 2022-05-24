@@ -1,0 +1,36 @@
+<Cat>
+	<name>"8"</name>
+	<physicalData>
+		<height>"8"</height>
+		<testField1>
+			<x>"1.0"</x>
+			<y>"1.0"</y>
+		</testField1>
+		<weight>"8"</weight>
+		<testField2>
+			<x>"9.0"</x>
+			<y>"9.0"</y>
+		</testField2>
+	</physicalData>
+	<age>"8"</age>
+	<ownerName>"8"</ownerName>
+</Cat>
+
+<Cat>
+	<name>"9"</name>
+	<physicalData>
+		<height>"9"</height>
+		<testField1>
+			<x>"1.0"</x>
+			<y>"1.0"</y>
+		</testField1>
+		<weight>"9"</weight>
+		<testField2>
+			<x>"9.0"</x>
+			<y>"9.0"</y>
+		</testField2>
+	</physicalData>
+	<age>"9"</age>
+	<ownerName>"9"</ownerName>
+</Cat>
+
